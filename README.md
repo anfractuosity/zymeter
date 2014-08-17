@@ -5,6 +5,9 @@ With Zymeter we want to enable you to check the specific gravity, alcohol conten
 
 https://hackaday.io/project/1231-Zymeter
 
+Schematic 
+=========
+This folder holds the schematic of the circuit so far
 
 Papers
 ==========
